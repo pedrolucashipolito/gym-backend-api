@@ -1,10 +1,10 @@
-# Spring Boot Backend API
+# Gym Backend API
 
-REST API developed as an academic project using Spring Boot, Spring Data JPA and PostgreSQL.
+REST API developed with Spring Boot, Spring Data JPA and PostgreSQL as part of an academic project.
 
 ## Overview
 
-This project provides backend services through REST endpoints and demonstrates the implementation of a layered architecture using modern Java development practices.
+This project provides backend services for a gym management application, exposing REST endpoints and demonstrating database integration through Spring Data JPA and PostgreSQL.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ This project provides backend services through REST endpoints and demonstrates t
 * Spring Boot fundamentals
 * Database integration with PostgreSQL
 * JPA repositories
-* Layered application architecture
+* Layered architecture
 
 ## Author
 
