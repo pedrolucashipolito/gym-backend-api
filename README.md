@@ -4,7 +4,7 @@ REST API developed with Spring Boot, Spring Data JPA and PostgreSQL as part of a
 
 ## Overview
 
-This project provides backend services for a gym management application, exposing REST endpoints and demonstrating database integration through Spring Data JPA and PostgreSQL.
+Gym Backend API is an academic backend project that demonstrates the development of REST endpoints and integration with a relational database. It uses Spring Boot and Spring Data JPA to organize application logic and data access.
 
 ## Technologies Used
 
@@ -16,19 +16,27 @@ This project provides backend services for a gym management application, exposin
 
 ## Project Structure
 
-* Controller – REST endpoints
-* Model – Domain entities
-* Repository – Data access layer
-* Exception – Exception handling
+The application is organized into layers to separate responsibilities:
+
+* **Controller:** Handles HTTP requests and exposes REST endpoints
+* **Model:** Represents the application's domain entities
+* **Repository:** Handles data access through Spring Data JPA
+* **Exception:** Contains exception-handling components
 
 ## Learning Objectives
 
+This project was developed to practice:
+
+* Backend development with Java
 * REST API development
 * Spring Boot fundamentals
-* Database integration with PostgreSQL
-* JPA repositories
-* Layered architecture
+* Object-Oriented Programming (OOP)
+* Data persistence with Spring Data JPA
+* PostgreSQL integration
+* Layered application architecture
 
 ## Author
 
-Pedro Lucas
+**Pedro Lucas**
+
+Information Systems Student at UEG | Software Development
